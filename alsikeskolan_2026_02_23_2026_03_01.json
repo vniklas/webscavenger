@@ -1,0 +1,65 @@
+{
+  "school": "Alsikeskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Alsikeköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 23 FEB",
+        "meals": {
+          "Lunch": "Sprödbakad fisk med kall sås, kokt potatis",
+          "Vegetariskt": "Hemlagad grönsaksbiff, kall sås och ugnsbakade rotfrukter.",
+          "Veganskt": "Hemlagad grönsaksbiff, kall sås och ugnsbakade rotfrukter.",
+          "Ej fläsk": "Sprödbakad fisk med kall sås, kokt potatis",
+          "Mellanmål": "Mellanmål",
+          "Frukost": "Frukost"
+        }
+      },
+      {
+        "day": "TUESDAY 24 FEB",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Veganskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Mellanmål": "Mellanmål",
+          "Frukost": "Frukost"
+        }
+      },
+      {
+        "day": "WEDNESDAY 25 FEB",
+        "meals": {
+          "Lunch": "Kebabgryta med vitlökssås, ugnsbakad lök och bulgur",
+          "Vegetariskt": "Vegansk kebabgryta med bulgur och vitlökssås",
+          "Veganskt": "Vegansk kebabgryta med bulgur och vitlökssås",
+          "Ej fläsk": "Kebabgryta med bulgur och vitlökssås",
+          "Mellanmål": "Mellanmål",
+          "Frukost": "Frukost"
+        }
+      },
+      {
+        "day": "THURSDAY 26 FEB",
+        "meals": {
+          "Lunch": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Vegetariskt": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Veganskt": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Ej fläsk": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Mellanmål": "Mellanmål",
+          "Frukost": "Frukost"
+        }
+      },
+      {
+        "day": "FRIDAY 27 FEB",
+        "meals": {
+          "Lunch": "Potatisbullar med lingonsylt och keso",
+          "Vegetariskt": "Potatisbullar med lingonsylt och keso",
+          "Veganskt": "Potatisbullar med lingonsylt och keso",
+          "Ej fläsk": "Potatisbullar med lingonsylt och keso",
+          "Mellanmål": "Mellanmål",
+          "Frukost": "Frukost"
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-02-23",
+  "end_date": "2026-03-01"
+}
