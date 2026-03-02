@@ -1,0 +1,78 @@
+{
+  "week": "Meny för vecka 10",
+  "days": [
+    {
+      "day": "Måndag 2 mar",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Raggmunk med lingonsylt och keso"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Raggmunk med lingonsylt och baconströssel"
+        }
+      ]
+    },
+    {
+      "day": "Tisdag 3 mar",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Pasta med krämig tomatsås"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Krämig kycklingpasta"
+        }
+      ]
+    },
+    {
+      "day": "Onsdag 4 mar",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Broccoligratäng med kokt potatis"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Fiskgratäng med örter"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 5 mar",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Potatis- och purjolökssoppa med hembakt bröd"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Mannagrynspudding och hemkokt sylt"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets val"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 6 mar",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Vegokorv med stuvade makaroner"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Falukorv med stuvade makaroner"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kycklingkorv och stuvade makaroner"
+        }
+      ]
+    }
+  ]
+}
