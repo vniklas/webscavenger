@@ -1,39 +1,42 @@
-# Malvas matsedel - Meny för vecka 9
+# Malvas matsedel - Meny för vecka 11
 
 ---
 
 
-## Måndag 23 feb
+## Måndag 9 mar
 
-- Dagens gröna: Vegokorv med potatismos och ketchup
-- Dagens rätt: Falukorv med potatismos och ketchup
-- Dagens alternativ: Kycklingkorv med potatismos och ketchup
-
----
-
-## Tisdag 24 feb
-
-- Dagens gröna: Röd lasagne och keso
-- Dagens rätt: Lohikeitto - finsk fisksoppa och hembakt bröd
+- Dagens gröna: Pasta med ost- och broccolisås
+- Dagens rätt: Pasta med ost- och skinksås
+- Dagens alternativ: Pasta med ost- och kalkonsås
 
 ---
 
-## Onsdag 25 feb
+## Tisdag 10 mar
 
-- Dagens gröna: Vegogryta med ajvar och klyftpotatis
-- Dagens rätt: Ajvarkyckling med klyftpotatis
-
----
-
-## Torsdag 26 feb
-
-- Dagens gröna: Vegoschnitzel med kryddsmör och kokt potatis
-- Dagens rätt: Pasta med ratatouille
+- Dagens gröna: Cajunbiffar med kall örtsås och kokt potatis
+- Dagens rätt: Fiskpanetter med kall örtsås och kokt potatis
+- Dagens alternativ: Kökets val
 
 ---
 
-## Fredag 27 feb
+## Onsdag 11 mar
 
-- Dagens rätt: Tacobuffe vego
+- Dagens gröna: Grillost stroganoff och havreris
+- Dagens rätt: Korv stroganoff och havreris
+- Dagens alternativ: Kycklingkorv stroganoff och havreris
+
+---
+
+## Torsdag 12 mar
+
+- Dagens gröna: Tomatsoppa med hembakat bröd och vitlöksklick
+- Dagens rätt: Pannkaka och hemkokt sylt
+
+---
+
+## Fredag 13 mar
+
+- Dagens gröna: Chili sin carne med ris
+- Dagens rätt: Chili con carne med ris
 
 ---

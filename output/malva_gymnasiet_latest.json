@@ -1,68 +1,80 @@
 {
-  "week": "Meny för vecka 9",
+  "week": "Meny för vecka 11",
   "days": [
     {
-      "day": "Måndag 23 feb",
+      "day": "Måndag 9 mar",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Vegokorv med potatismos och ketchup"
+          "dish": "Pasta med ost- och broccolisås"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Falukorv med potatismos och ketchup"
+          "dish": "Pasta med ost- och skinksås"
         },
         {
           "category": "Dagens alternativ",
-          "dish": "Kycklingkorv med potatismos och ketchup"
+          "dish": "Pasta med ost- och kalkonsås"
         }
       ]
     },
     {
-      "day": "Tisdag 24 feb",
+      "day": "Tisdag 10 mar",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Röd lasagne och keso"
+          "dish": "Cajunbiffar med kall örtsås och kokt potatis"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Lohikeitto - finsk fisksoppa och hembakt bröd"
+          "dish": "Fiskpanetter med kall örtsås och kokt potatis"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets val"
         }
       ]
     },
     {
-      "day": "Onsdag 25 feb",
+      "day": "Onsdag 11 mar",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Vegogryta med ajvar och klyftpotatis"
+          "dish": "Grillost stroganoff och havreris"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Ajvarkyckling med klyftpotatis"
+          "dish": "Korv stroganoff och havreris"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kycklingkorv stroganoff och havreris"
         }
       ]
     },
     {
-      "day": "Torsdag 26 feb",
+      "day": "Torsdag 12 mar",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Vegoschnitzel med kryddsmör och kokt potatis"
+          "dish": "Tomatsoppa med hembakat bröd och vitlöksklick"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Pasta med ratatouille"
+          "dish": "Pannkaka och hemkokt sylt"
         }
       ]
     },
     {
-      "day": "Fredag 27 feb",
+      "day": "Fredag 13 mar",
       "meals": [
         {
+          "category": "Dagens gröna",
+          "dish": "Chili sin carne med ris"
+        },
+        {
           "category": "Dagens rätt",
-          "dish": "Tacobuffe vego"
+          "dish": "Chili con carne med ris"
         }
       ]
     }

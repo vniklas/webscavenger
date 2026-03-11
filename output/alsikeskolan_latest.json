@@ -4,62 +4,62 @@
   "weeks": [
     [
       {
-        "day": "MONDAY 02 MAR",
+        "day": "MONDAY 09 MAR",
         "meals": {
-          "Lunch": "Korvstroganoff med  ris",
-          "Vegetariskt": "Vegansk stroganoff med ris",
-          "Veganskt": "Vegansk stroganoff med ris",
-          "Ej fläsk": "Korvstroganoff (nöt) med ris",
+          "Lunch": "Kyckling i currysås och jasminris",
+          "Vegetariskt": "Indisk currygryta med kokosmjölk och ris",
+          "Veganskt": "Indisk currygryta med kokosmjölk och ris",
+          "Ej fläsk": "Kyckling i currysås och jasminris",
           "Mellanmål": "Mellanmål",
           "Frukost": "Frukost"
         }
       },
       {
-        "day": "TUESDAY 03 MAR",
+        "day": "TUESDAY 10 MAR",
         "meals": {
-          "Lunch": "Sprödbakad fisk med kall sås, kokt potatis",
-          "Vegetariskt": "Hemlagad grönsaksbiff, kall sås och ugnsbakade rotfrukter.",
-          "Veganskt": "Hemlagad grönsaksbiff, kall sås och ugnsbakade rotfrukter.",
-          "Ej fläsk": "Sprödbakad fisk med kall sås, kokt potatis",
+          "Lunch": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
+          "Vegetariskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis",
+          "Veganskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis",
+          "Ej fläsk": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
           "Mellanmål": "Mellanmål",
           "Frukost": "Frukost"
         }
       },
       {
-        "day": "WEDNESDAY 04 MAR",
+        "day": "WEDNESDAY 11 MAR",
         "meals": {
-          "Lunch": "Pasta med ost och skinksås",
-          "Vegetariskt": "Pasta med vegansk tomat och linssås",
-          "Veganskt": "Pasta med vegansk tomat och linssås",
-          "Ej fläsk": "Pasta med vegansk tomat och linssås",
-          "Mellanmål": "Mellanmål",
-          "Frukost": "Frukost"
-        }
-      },
-      {
-        "day": "THURSDAY 05 MAR",
-        "meals": {
-          "Lunch": "Klassisk lasagne",
+          "Lunch": "Vegetarisk lasagne",
           "Vegetariskt": "Vegetarisk lasagne",
           "Veganskt": "Vegansk lasagne ",
-          "Ej fläsk": "Klassisk lasagne",
+          "Ej fläsk": "Vegetarisk lasagne",
           "Mellanmål": "Mellanmål",
           "Frukost": "Frukost"
         }
       },
       {
-        "day": "FRIDAY 06 MAR",
+        "day": "THURSDAY 12 MAR",
         "meals": {
-          "Lunch": "Mexikansk fajitas med bröd, vitlöksyoghurt och grönsaker",
-          "Vegetariskt": "Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker",
-          "Veganskt": "Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker",
-          "Ej fläsk": "Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker",
+          "Lunch": "Köttbullar med brunsås och lingonsylt, kokt potatis",
+          "Vegetariskt": "Vegobullar med brunsås, lingonsylt och kokt potatis",
+          "Veganskt": "Vegobullar med brunsås, inlagd gurka och kokt potatis",
+          "Ej fläsk": "Köttbullar med brunsås och lingonsylt, kokt potatis",
+          "Mellanmål": "Mellanmål",
+          "Frukost": "Frukost"
+        }
+      },
+      {
+        "day": "FRIDAY 13 MAR",
+        "meals": {
+          "Lunch": "Fiskgratäng med ost, tomat och oregano, kokt potatis",
+          "Vegetariskt": "Italiensk grönsaksgratäng med ost, tomat och oregano, kokt potatis.",
+          "Veganskt": "Italiensk grönsaksgratäng med ost, tomat och oregano, kokt potatis.",
+          "Ej fläsk": "Fiskgratäng med ost, tomat och oregano, kokt potatis",
           "Mellanmål": "Mellanmål",
           "Frukost": "Frukost"
         }
       }
     ]
   ],
-  "start_date": "2026-03-02",
-  "end_date": "2026-03-08"
+  "start_date": "2026-03-09",
+  "end_date": "2026-03-15"
 }
