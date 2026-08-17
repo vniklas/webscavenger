@@ -139,7 +139,7 @@ def slugify(value: str) -> str:
 
 
 def main():
-    url = "https://menu.matildaplatform.com/en/meals/week/67efc392b004f87fee8fa856_alsikeskolan"
+    url = "https://menu.matildaplatform.com/meals/week/67efc167b004f87fee8f580c_adolfsbergsskolan"
 
     print("Hämtar matlista...")
     menu_data = scrape_menu(url)

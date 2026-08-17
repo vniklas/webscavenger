@@ -1,0 +1,55 @@
+{
+  "school": "Adolfsbergsskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 17 AUG",
+        "meals": {
+          "Lunch": "Korvstroganoff med ris",
+          "Vegetariskt": "Kockens veggierätt ",
+          "Ej fläsk": "Kockens veggierätt",
+          "Veganskt": "Kockens veggierätt "
+        }
+      },
+      {
+        "day": "TUESDAY 18 AUG",
+        "meals": {
+          "Lunch": "Pannkaksbuffé och Kökets soppa ",
+          "Vegetariskt": "Pannkaksbuffé och Kökets soppa ",
+          "Ej fläsk": "Pannkaksbuffé och Kökets soppa ",
+          "Veganskt": "Pannkaksbuffé och Kökets soppa "
+        }
+      },
+      {
+        "day": "WEDNESDAY 19 AUG",
+        "meals": {
+          "Lunch": "Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.",
+          "Vegetariskt": "Pasta med vegansk tomat och linssås",
+          "Ej fläsk": "Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.",
+          "Veganskt": "Pasta med vegansk tomat och linssås"
+        }
+      },
+      {
+        "day": "THURSDAY 20 AUG",
+        "meals": {
+          "Lunch": "Sprödbakad fisk med citron och dilldressing och kokt potatis, gröna ärtor.",
+          "Vegetariskt": "Hemlagad grönsaksbiff med citron och dilldressing och kokt potatis, gröna ärtor.",
+          "Ej fläsk": "Sprödbakad fisk med citron och dilldressing och kokt potatis, gröna ärtor.",
+          "Veganskt": "Hemlagad grönsaksbiff med citron och dilldressing och kokt potatis, gröna ärtor."
+        }
+      },
+      {
+        "day": "FRIDAY 21 AUG",
+        "meals": {
+          "Lunch": "Viltfärstacos med bröd, ris och grönsaker ",
+          "Vegetariskt": "Vegetarisk tacomaträtt med ris",
+          "Ej fläsk": "Vegetarisk tacomaträtt med ris",
+          "Veganskt": "Vegetarisk tacomaträtt med ris"
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-08-17",
+  "end_date": "2026-08-23"
+}

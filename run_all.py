@@ -28,7 +28,7 @@ def copy_latest_files(output_dir: Path):
     """Kopiera varje fil med veckonamn till en -latest version"""
     print("\nSkapar -latest kopior...")
     prefixes = {
-        "alsikeskolan": "alsikeskolan_latest",
+        "adolfsbergsskolan": "adolfsbergsskolan_latest",
         "malva_gymnasiet": "malva_gymnasiet_latest",
     }
     for prefix, latest_base in prefixes.items():

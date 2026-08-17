@@ -17,7 +17,7 @@ python scrape_menu.py
 ```
 
 Detta kommer att:
-1. Hämta den senaste matlistan från Alsikeskolan
+1. Hämta den senaste matlistan från Adolfsbergsskolan
 2. Skapa `matlista_chatgpt.md` - formaterad för ChatGPT
 3. Skapa `matlista.json` - strukturerad data i JSON-format
 
@@ -26,7 +26,7 @@ Detta kommer att:
 Redigera URL:en i `scrape_menu.py` för att hämta från en annan vecka eller skola:
 
 ```python
-url = "https://menu.matildaplatform.com/en/meals/week/67efc392b004f87fee8fa856_alsikeskolan"
+url = "https://menu.matildaplatform.com/meals/week/67efc167b004f87fee8f580c_adolfsbergsskolan"
 ```
 
 ## Använd med ChatGPT Agent Mode
