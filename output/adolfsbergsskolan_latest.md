@@ -1,23 +1,19 @@
-# Matlista för Alsikeskolan (Knivsta Kommun)
+# Matlista för Adolfsbergsskolan (Knivsta Kommun)
 
-*Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Alsikeköket!*
+*Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!*
 
 ---
 
 
 ## MONDAY 17 AUG
 
-**Lunch:** Kökets val
+**Lunch:** Korvstroganoff med ris
 
-**Vegetariskt:** Kökets val
+**Vegetariskt:** Kockens veggierätt 
 
-**Veganskt:** Kökets val
+**Ej fläsk:** Kockens veggierätt
 
-**Ej fläsk:** Kökets val
-
-**Mellanmål:** Mellanmål
-
-**Frukost:** Frukost
+**Veganskt:** Kockens veggierätt 
 
 ---
 
@@ -27,13 +23,9 @@
 
 **Vegetariskt:** Pannkaksbuffé och Kökets soppa 
 
-**Veganskt:** Pannkaksbuffé och Kökets soppa 
-
 **Ej fläsk:** Pannkaksbuffé och Kökets soppa 
 
-**Mellanmål:** Mellanmål
-
-**Frukost:** Frukost
+**Veganskt:** Pannkaksbuffé och Kökets soppa 
 
 ---
 
@@ -43,13 +35,9 @@
 
 **Vegetariskt:** Pasta med vegansk tomat och linssås
 
-**Veganskt:** Pasta med vegansk tomat och linssås
-
 **Ej fläsk:** Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.
 
-**Mellanmål:** Mellanmål
-
-**Frukost:** Frukost
+**Veganskt:** Pasta med vegansk tomat och linssås
 
 ---
 
@@ -59,13 +47,9 @@
 
 **Vegetariskt:** Hemlagad grönsaksbiff med citron och dilldressing och kokt potatis, gröna ärtor.
 
-**Veganskt:** Hemlagad grönsaksbiff med citron och dilldressing och kokt potatis, gröna ärtor.
-
 **Ej fläsk:** Sprödbakad fisk med citron och dilldressing och kokt potatis, gröna ärtor.
 
-**Mellanmål:** Mellanmål
-
-**Frukost:** Frukost
+**Veganskt:** Hemlagad grönsaksbiff med citron och dilldressing och kokt potatis, gröna ärtor.
 
 ---
 
@@ -75,12 +59,8 @@
 
 **Vegetariskt:** Vegetarisk tacomaträtt med ris
 
-**Veganskt:** Vegetarisk tacomaträtt med ris
-
 **Ej fläsk:** Vegetarisk tacomaträtt med ris
 
-**Mellanmål:** Mellanmål
-
-**Frukost:** Frukost
+**Veganskt:** Vegetarisk tacomaträtt med ris
 
 ---
