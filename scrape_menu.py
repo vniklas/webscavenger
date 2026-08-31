@@ -4,48 +4,70 @@ Web scraper för att hämta matlista från Matilda Platform
 och formatera den för ChatGPT Agent Mode
 """
 
+import re
 import requests
-from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
-def scrape_menu(url):
-    """Hämtar och parsar matsedeln från Matilda Platform"""
-    
-    # Hämta websidan
+API_BASE = "https://menu.matildaplatform.com/api/menu"
+
+
+def extract_distributor_id(url):
+    """Extraherar distributorId från en meals/week-URL, t.ex.
+    '.../meals/week/67efc167b004f87fee8f580c_adolfsbergsskolan' -> '67efc167b004f87fee8f580c'
+
+    OBS: Matilda Platform renderar inte längre matsedeln i sidans HTML
+    (__NEXT_DATA__). Sidan gör istället ett eget anrop till /api/menu i
+    webbläsaren efter sidladdning, så vi anropar samma API direkt.
+    """
+    m = re.search(r'week/([0-9a-fA-F]+)_', url)
+    if not m:
+        raise ValueError(f"Kunde inte hitta distributorId i URL: {url}")
+    return m.group(1)
+
+
+def current_week_dates(today=None):
+    """Returnerar (startDate, endDate) som ISO-datumsträngar (YYYY-MM-DD)
+    för innevarande ISO-vecka (måndag till söndag)."""
+    today = today or datetime.now(timezone.utc).date()
+    monday = today - timedelta(days=today.weekday())
+    sunday = monday + timedelta(days=6)
+    return monday.isoformat(), sunday.isoformat()
+
+
+def scrape_menu(url, start_date=None, end_date=None):
+    """Hämtar och parsar matsedeln från Matilda Platforms /api/menu-endpoint"""
+
+    distributor_id = extract_distributor_id(url)
+    if not start_date or not end_date:
+        start_date, end_date = current_week_dates()
+
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
     }
-    response = requests.get(url, headers=headers)
+    params = {
+        'distributorId': distributor_id,
+        'startDate': start_date,
+        'endDate': end_date,
+        'lang': 'sv',
+    }
+    response = requests.get(API_BASE, headers=headers, params=params)
     response.raise_for_status()
-    
-    # Parsa HTML
-    soup = BeautifulSoup(response.content, 'html.parser')
-    
-    # Hitta JSON-data i __NEXT_DATA__
-    next_data = soup.find('script', {'id': '__NEXT_DATA__'})
-    if not next_data:
-        return {'school': 'Unknown', 'weeks': []}
-    
-    data = json.loads(next_data.string)
-    page_props = data.get('props', {}).get('pageProps', {})
 
-    # Extrahera startDate/endDate om de finns
-    start_date = page_props.get('startDate') or page_props.get('start')
-    end_date = page_props.get('endDate') or page_props.get('end')
-    
+    data = response.json()
+
     # Extrahera skolinfo
-    distributor = page_props.get('distributor', {})
-    school_name = distributor.get('name', 'Alsikeskolan')
+    distributor = data.get('distributor', {})
+    school_name = distributor.get('name', 'Adolfsbergsskolan')
     organization = distributor.get('organization', '')
     if organization:
         school_name = f"{school_name} ({organization})"
-    
+
     message = distributor.get('messageForCustomers', '')
 
     # Extrahera måltider
-    meals_list = page_props.get('meals', [])
+    meals_list = data.get('meals', [])
 
     # Gruppera måltider per dag (använd datum som nyckel för kronologisk sortering)
     days_by_date = {}
