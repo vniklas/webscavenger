@@ -1,0 +1,55 @@
+{
+  "school": "Adolfsbergsskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 12 OCT",
+        "meals": {
+          "Lunch": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
+          "Vegetariskt": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
+          "Ej fläsk": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
+          "Veganskt": "Potatisbullar med lingonsylt "
+        }
+      },
+      {
+        "day": "TUESDAY 13 OCT",
+        "meals": {
+          "Lunch": "Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter",
+          "Vegetariskt": "Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat och fetaost , ugnsrostade kulpotatis och rotfrukter.",
+          "Ej fläsk": "Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter",
+          "Veganskt": "Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat, ugnsrostade kulpotatis och rotfrukter. "
+        }
+      },
+      {
+        "day": "WEDNESDAY 14 OCT",
+        "meals": {
+          "Lunch": "Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.",
+          "Vegetariskt": "Thailändsk gryta med röd curry, kokosmjölk, lime och jasminris",
+          "Ej fläsk": "Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.",
+          "Veganskt": "Thailändsk gryta med röd curry och kokos, jasminris."
+        }
+      },
+      {
+        "day": "THURSDAY 15 OCT",
+        "meals": {
+          "Lunch": "Köttfärssås med spagetti och vitlöksrostad majs",
+          "Vegetariskt": "Vegansk bolognese med spaghetti",
+          "Ej fläsk": "Vegansk bolognese med spaghetti",
+          "Veganskt": "Vegansk bolognese med spaghetti"
+        }
+      },
+      {
+        "day": "FRIDAY 16 OCT",
+        "meals": {
+          "Lunch": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Vegetariskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Ej fläsk": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Veganskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿"
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-10-12",
+  "end_date": "2026-10-18"
+}

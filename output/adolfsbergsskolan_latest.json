@@ -4,52 +4,52 @@
   "weeks": [
     [
       {
-        "day": "MONDAY 05 OCT",
+        "day": "MONDAY 12 OCT",
         "meals": {
-          "Lunch": "Kökets vegetariska buffé ",
-          "Vegetariskt": "Kökets vegetariska buffé ",
-          "Ej fläsk": "Kökets vegetariska buffé ",
-          "Veganskt": "Kökets vegetariska buffé "
+          "Lunch": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
+          "Vegetariskt": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
+          "Ej fläsk": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
+          "Veganskt": "Potatisbullar med lingonsylt "
         }
       },
       {
-        "day": "TUESDAY 06 OCT",
+        "day": "TUESDAY 13 OCT",
         "meals": {
-          "Lunch": "Kryddkorvspasta med riven ost",
-          "Vegetariskt": "Kockens veggierätt",
-          "Ej fläsk": "Kryddkorvspasta med riven ost",
-          "Veganskt": "Kockens veggierätt"
+          "Lunch": "Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter",
+          "Vegetariskt": "Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat och fetaost , ugnsrostade kulpotatis och rotfrukter.",
+          "Ej fläsk": "Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter",
+          "Veganskt": "Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat, ugnsrostade kulpotatis och rotfrukter. "
         }
       },
       {
-        "day": "WEDNESDAY 07 OCT",
+        "day": "WEDNESDAY 14 OCT",
         "meals": {
-          "Lunch": "Kökets val",
-          "Vegetariskt": "Kökets val",
-          "Ej fläsk": "Kökets val",
-          "Veganskt": "Kökets val"
+          "Lunch": "Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.",
+          "Vegetariskt": "Thailändsk gryta med röd curry, kokosmjölk, lime och jasminris",
+          "Ej fläsk": "Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.",
+          "Veganskt": "Thailändsk gryta med röd curry och kokos, jasminris."
         }
       },
       {
-        "day": "THURSDAY 08 OCT",
+        "day": "THURSDAY 15 OCT",
         "meals": {
-          "Lunch": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
-          "Vegetariskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis",
-          "Ej fläsk": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
-          "Veganskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis"
+          "Lunch": "Köttfärssås med spagetti och vitlöksrostad majs",
+          "Vegetariskt": "Vegansk bolognese med spaghetti",
+          "Ej fläsk": "Vegansk bolognese med spaghetti",
+          "Veganskt": "Vegansk bolognese med spaghetti"
         }
       },
       {
-        "day": "FRIDAY 09 OCT",
+        "day": "FRIDAY 16 OCT",
         "meals": {
-          "Lunch": "Kyckling och rotfrukter i gul currysås med jasminris och broccoli",
-          "Vegetariskt": "Indisk currygryta med kokosmjölk och ris",
-          "Ej fläsk": "Kyckling och rotfrukter i gul currysås med jasminris och broccoli",
-          "Veganskt": "Indisk currygryta med kokosmjölk och ris"
+          "Lunch": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Vegetariskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Ej fläsk": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Veganskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿"
         }
       }
     ]
   ],
-  "start_date": "2026-10-05",
-  "end_date": "2026-10-11"
+  "start_date": "2026-10-12",
+  "end_date": "2026-10-18"
 }

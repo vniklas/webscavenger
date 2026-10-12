@@ -1,42 +1,41 @@
-# Malvas matsedel - Meny för vecka 41
+# Malvas matsedel - Meny för vecka 42
 
 ---
 
 
-## Måndag 5 okt
+## Måndag 12 okt
 
-- Dagens gröna: Pasta med krämig vegofärssås
-- Dagens rätt: Pasta med krämig tomatsås
-
----
-
-## Tisdag 6 okt
-
-- Dagens gröna: Vegokorv Stroganoff och havreris
-- Dagens rätt: Korv stroganoff och havreris
-- Dagens alternativ: Kycklingkorv stroganoff och havreris
+- Dagens gröna: Vegobollar/biffar med gräddsås och kokt potatis
+- Dagens rätt: Fiskköttbullar med gräddsås, lingon och kokt potatis
 
 ---
 
-## Onsdag 7 okt
+## Tisdag 13 okt
 
-- Dagens gröna: Cajunbiffar med kall örtsås och kokt potatis
-- Dagens rätt: Citronfisk med kokt potatis
+- Dagens gröna: Vårrullar med sötsur sås och ris
+- Dagens rätt: Nudelwok med tofu och grönsaker
 - Dagens alternativ: Kökets val
 
 ---
 
-## Torsdag 8 okt
+## Onsdag 14 okt
 
-- Dagens gröna: Broccolisoppa med hembakt bröd
-- Dagens rätt: Ostkaka med hemkokt sylt
+- Dagens gröna: Kökets gröna val - gryträtt
+- Dagens rätt: Kökets val - gryträtt
 
 ---
 
-## Fredag 9 okt
+## Torsdag 15 okt
 
-- Dagens gröna: Röd currygryta med vegoflakes och basmatiris
-- Dagens rätt: Röd currygryta med fläsk och basmatiris
-- Dagens alternativ: Röd currygryta med kyckling och basmatiris
+- Dagens gröna: Modern ärtsoppa med indiska smaker
+- Dagens rätt: Pannkaka och hemkokt sylt
+- Dagens alternativ: Klassisk ärtsoppa med fläsk och senap
+
+---
+
+## Fredag 16 okt
+
+- Dagens gröna: Spagetti och linsbolognese
+- Dagens rätt: Spagetti och köttfärssås
 
 ---

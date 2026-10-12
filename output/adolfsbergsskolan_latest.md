@@ -5,62 +5,62 @@
 ---
 
 
-## MONDAY 05 OCT
+## MONDAY 12 OCT
 
-**Lunch:** Kökets vegetariska buffé 
+**Lunch:** Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.
 
-**Vegetariskt:** Kökets vegetariska buffé 
+**Vegetariskt:** Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.
 
-**Ej fläsk:** Kökets vegetariska buffé 
+**Ej fläsk:** Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.
 
-**Veganskt:** Kökets vegetariska buffé 
-
----
-
-## TUESDAY 06 OCT
-
-**Lunch:** Kryddkorvspasta med riven ost
-
-**Vegetariskt:** Kockens veggierätt
-
-**Ej fläsk:** Kryddkorvspasta med riven ost
-
-**Veganskt:** Kockens veggierätt
+**Veganskt:** Potatisbullar med lingonsylt 
 
 ---
 
-## WEDNESDAY 07 OCT
+## TUESDAY 13 OCT
 
-**Lunch:** Kökets val
+**Lunch:** Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter
 
-**Vegetariskt:** Kökets val
+**Vegetariskt:** Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat och fetaost , ugnsrostade kulpotatis och rotfrukter.
 
-**Ej fläsk:** Kökets val
+**Ej fläsk:** Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter
 
-**Veganskt:** Kökets val
-
----
-
-## THURSDAY 08 OCT
-
-**Lunch:** Pannbiff med tzatsiki, varma grönsaker och klyftpotatis
-
-**Vegetariskt:** Hemlagade vegetariska biffar med tzatsiki och klyftpotatis
-
-**Ej fläsk:** Pannbiff med tzatsiki, varma grönsaker och klyftpotatis
-
-**Veganskt:** Hemlagade vegetariska biffar med tzatsiki och klyftpotatis
+**Veganskt:** Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat, ugnsrostade kulpotatis och rotfrukter. 
 
 ---
 
-## FRIDAY 09 OCT
+## WEDNESDAY 14 OCT
 
-**Lunch:** Kyckling och rotfrukter i gul currysås med jasminris och broccoli
+**Lunch:** Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.
 
-**Vegetariskt:** Indisk currygryta med kokosmjölk och ris
+**Vegetariskt:** Thailändsk gryta med röd curry, kokosmjölk, lime och jasminris
 
-**Ej fläsk:** Kyckling och rotfrukter i gul currysås med jasminris och broccoli
+**Ej fläsk:** Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.
 
-**Veganskt:** Indisk currygryta med kokosmjölk och ris
+**Veganskt:** Thailändsk gryta med röd curry och kokos, jasminris.
+
+---
+
+## THURSDAY 15 OCT
+
+**Lunch:** Köttfärssås med spagetti och vitlöksrostad majs
+
+**Vegetariskt:** Vegansk bolognese med spaghetti
+
+**Ej fläsk:** Vegansk bolognese med spaghetti
+
+**Veganskt:** Vegansk bolognese med spaghetti
+
+---
+
+## FRIDAY 16 OCT
+
+**Lunch:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+
+**Vegetariskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+
+**Ej fläsk:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+
+**Veganskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
 
 ---
