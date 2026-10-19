@@ -1,0 +1,74 @@
+{
+  "week": "Meny för vecka 43",
+  "days": [
+    {
+      "day": "Måndag 19 okt",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Pasta med ajvar- och spenatsås"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pasta med kalkon- och ajvarsås"
+        }
+      ]
+    },
+    {
+      "day": "Tisdag 20 okt",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Falafel med kebabsås och potatis"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Fiskgratäng med dragonsås och kokt potatis"
+        }
+      ]
+    },
+    {
+      "day": "Onsdag 21 okt",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Thaigryta med tofu och ris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Thaigryta med kyckling och ris"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 22 okt",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Blomkålssoppa med curry och mjukt bröd"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pannkaka och hemkokt sylt"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets val"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 23 okt",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Vegofärslasagne"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Kycklinglasagne"
+        }
+      ]
+    }
+  ]
+}

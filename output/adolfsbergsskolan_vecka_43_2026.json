@@ -1,0 +1,55 @@
+{
+  "school": "Adolfsbergsskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 19 OCT",
+        "meals": {
+          "Lunch": "Chicken nuggets med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.",
+          "Vegetariskt": "Vegetarisk schnitzel med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.",
+          "Ej fläsk": "Chicken nuggets med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.",
+          "Veganskt": "Vegetarisk schnitzel med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön."
+        }
+      },
+      {
+        "day": "TUESDAY 20 OCT",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "WEDNESDAY 21 OCT",
+        "meals": {
+          "Lunch": "Korvkiosk - Korv med bröd, hemlagat mos och tillbehör",
+          "Vegetariskt": "Dagens vegetariska",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Dagens veganska"
+        }
+      },
+      {
+        "day": "THURSDAY 22 OCT",
+        "meals": {
+          "Lunch": "Italiensk ost- och tomatsås med smak av basilika och kökets pasta, riven ost och örtbakad palsternacka",
+          "Vegetariskt": "Italiensk ost- och tomatsås med smak av basilika",
+          "Ej fläsk": "Italiensk ost- och tomatsås med smak av basilika",
+          "Veganskt": "Italiensk ost- och tomatsås med smak av basilika"
+        }
+      },
+      {
+        "day": "FRIDAY 23 OCT",
+        "meals": {
+          "Lunch": "Kycklingssoppa med rotfrukter, bröd och ost.",
+          "Vegetariskt": "Krämig rotfruktssoppa med bröd och ost",
+          "Ej fläsk": "Kycklingssoppa med rotfrukter, bröd och ost.",
+          "Veganskt": "Krämig rotfruktssoppa med bröd och ost"
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-10-19",
+  "end_date": "2026-10-25"
+}

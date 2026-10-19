@@ -5,62 +5,62 @@
 ---
 
 
-## MONDAY 12 OCT
+## MONDAY 19 OCT
 
-**Lunch:** Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.
+**Lunch:** Chicken nuggets med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.
 
-**Vegetariskt:** Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.
+**Vegetariskt:** Vegetarisk schnitzel med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.
 
-**Ej fläsk:** Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.
+**Ej fläsk:** Chicken nuggets med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.
 
-**Veganskt:** Potatisbullar med lingonsylt 
-
----
-
-## TUESDAY 13 OCT
-
-**Lunch:** Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter
-
-**Vegetariskt:** Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat och fetaost , ugnsrostade kulpotatis och rotfrukter.
-
-**Ej fläsk:** Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter
-
-**Veganskt:** Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat, ugnsrostade kulpotatis och rotfrukter. 
+**Veganskt:** Vegetarisk schnitzel med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.
 
 ---
 
-## WEDNESDAY 14 OCT
+## TUESDAY 20 OCT
 
-**Lunch:** Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.
+**Lunch:** Kökets val
 
-**Vegetariskt:** Thailändsk gryta med röd curry, kokosmjölk, lime och jasminris
+**Vegetariskt:** Kökets val
 
-**Ej fläsk:** Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.
+**Ej fläsk:** Kökets val
 
-**Veganskt:** Thailändsk gryta med röd curry och kokos, jasminris.
-
----
-
-## THURSDAY 15 OCT
-
-**Lunch:** Köttfärssås med spagetti och vitlöksrostad majs
-
-**Vegetariskt:** Vegansk bolognese med spaghetti
-
-**Ej fläsk:** Vegansk bolognese med spaghetti
-
-**Veganskt:** Vegansk bolognese med spaghetti
+**Veganskt:** Kökets val
 
 ---
 
-## FRIDAY 16 OCT
+## WEDNESDAY 21 OCT
 
-**Lunch:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Lunch:** Korvkiosk - Korv med bröd, hemlagat mos och tillbehör
 
-**Vegetariskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Vegetariskt:** Dagens vegetariska
 
-**Ej fläsk:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Ej fläsk:** Kökets val
 
-**Veganskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Veganskt:** Dagens veganska
+
+---
+
+## THURSDAY 22 OCT
+
+**Lunch:** Italiensk ost- och tomatsås med smak av basilika och kökets pasta, riven ost och örtbakad palsternacka
+
+**Vegetariskt:** Italiensk ost- och tomatsås med smak av basilika
+
+**Ej fläsk:** Italiensk ost- och tomatsås med smak av basilika
+
+**Veganskt:** Italiensk ost- och tomatsås med smak av basilika
+
+---
+
+## FRIDAY 23 OCT
+
+**Lunch:** Kycklingssoppa med rotfrukter, bröd och ost.
+
+**Vegetariskt:** Krämig rotfruktssoppa med bröd och ost
+
+**Ej fläsk:** Kycklingssoppa med rotfrukter, bröd och ost.
+
+**Veganskt:** Krämig rotfruktssoppa med bröd och ost
 
 ---

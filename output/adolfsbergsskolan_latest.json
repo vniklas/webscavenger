@@ -4,52 +4,52 @@
   "weeks": [
     [
       {
-        "day": "MONDAY 12 OCT",
+        "day": "MONDAY 19 OCT",
         "meals": {
-          "Lunch": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
-          "Vegetariskt": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
-          "Ej fläsk": "Potatisbullar med lingonsylt, örtkeso, picklade polkabetor och gul morot.",
-          "Veganskt": "Potatisbullar med lingonsylt "
+          "Lunch": "Chicken nuggets med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.",
+          "Vegetariskt": "Vegetarisk schnitzel med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.",
+          "Ej fläsk": "Chicken nuggets med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön.",
+          "Veganskt": "Vegetarisk schnitzel med sötsur yoghurtsås, ris och rödkålssallad med rostade solrosfrön."
         }
       },
       {
-        "day": "TUESDAY 13 OCT",
+        "day": "TUESDAY 20 OCT",
         "meals": {
-          "Lunch": "Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter",
-          "Vegetariskt": "Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat och fetaost , ugnsrostade kulpotatis och rotfrukter.",
-          "Ej fläsk": "Krispig fisk, kall sås med soltorkade tomater och fetaost, ugnsrostad kulpotatis och rotfrukter",
-          "Veganskt": "Hemlagade ärtfärsbiffar, kall sås med soltorkad tomat, ugnsrostade kulpotatis och rotfrukter. "
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
         }
       },
       {
-        "day": "WEDNESDAY 14 OCT",
+        "day": "WEDNESDAY 21 OCT",
         "meals": {
-          "Lunch": "Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.",
-          "Vegetariskt": "Thailändsk gryta med röd curry, kokosmjölk, lime och jasminris",
-          "Ej fläsk": "Kyckling med röd curry, kokosmjölk, citrongräs, jasminris och broccoli.",
-          "Veganskt": "Thailändsk gryta med röd curry och kokos, jasminris."
+          "Lunch": "Korvkiosk - Korv med bröd, hemlagat mos och tillbehör",
+          "Vegetariskt": "Dagens vegetariska",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Dagens veganska"
         }
       },
       {
-        "day": "THURSDAY 15 OCT",
+        "day": "THURSDAY 22 OCT",
         "meals": {
-          "Lunch": "Köttfärssås med spagetti och vitlöksrostad majs",
-          "Vegetariskt": "Vegansk bolognese med spaghetti",
-          "Ej fläsk": "Vegansk bolognese med spaghetti",
-          "Veganskt": "Vegansk bolognese med spaghetti"
+          "Lunch": "Italiensk ost- och tomatsås med smak av basilika och kökets pasta, riven ost och örtbakad palsternacka",
+          "Vegetariskt": "Italiensk ost- och tomatsås med smak av basilika",
+          "Ej fläsk": "Italiensk ost- och tomatsås med smak av basilika",
+          "Veganskt": "Italiensk ost- och tomatsås med smak av basilika"
         }
       },
       {
-        "day": "FRIDAY 16 OCT",
+        "day": "FRIDAY 23 OCT",
         "meals": {
-          "Lunch": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
-          "Vegetariskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
-          "Ej fläsk": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
-          "Veganskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿"
+          "Lunch": "Kycklingssoppa med rotfrukter, bröd och ost.",
+          "Vegetariskt": "Krämig rotfruktssoppa med bröd och ost",
+          "Ej fläsk": "Kycklingssoppa med rotfrukter, bröd och ost.",
+          "Veganskt": "Krämig rotfruktssoppa med bröd och ost"
         }
       }
     ]
   ],
-  "start_date": "2026-10-12",
-  "end_date": "2026-10-18"
+  "start_date": "2026-10-19",
+  "end_date": "2026-10-25"
 }
