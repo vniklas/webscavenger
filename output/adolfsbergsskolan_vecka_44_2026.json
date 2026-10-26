@@ -1,0 +1,55 @@
+{
+  "school": "Adolfsbergsskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 26 OCT",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "TUESDAY 27 OCT",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "WEDNESDAY 28 OCT",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "THURSDAY 29 OCT",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "FRIDAY 30 OCT",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-10-26",
+  "end_date": "2026-11-01"
+}

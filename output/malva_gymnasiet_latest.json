@@ -1,55 +1,55 @@
 {
-  "week": "Meny för vecka 43",
+  "week": "Meny för vecka 44",
   "days": [
     {
-      "day": "Måndag 19 okt",
+      "day": "Måndag 26 okt",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Pasta med ajvar- och spenatsås"
+          "dish": "Raggmunk med lingonsylt och keso"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Pasta med kalkon- och ajvarsås"
+          "dish": "Blodpudding och lingonsylt"
         }
       ]
     },
     {
-      "day": "Tisdag 20 okt",
+      "day": "Tisdag 27 okt",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Falafel med kebabsås och potatis"
+          "dish": "Pasta med krämig tomatsås"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Fiskgratäng med dragonsås och kokt potatis"
+          "dish": "Krämig kycklingpasta"
         }
       ]
     },
     {
-      "day": "Onsdag 21 okt",
+      "day": "Onsdag 28 okt",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Thaigryta med tofu och ris"
+          "dish": "Broccoligratäng med kokt potatis"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Thaigryta med kyckling och ris"
+          "dish": "Fiskgratäng med örter och kokt potatis"
         }
       ]
     },
     {
-      "day": "Torsdag 22 okt",
+      "day": "Torsdag 29 okt",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Blomkålssoppa med curry och mjukt bröd"
+          "dish": "Potatis- och purjolökssoppa med hembakt bröd"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Pannkaka och hemkokt sylt"
+          "dish": "Ostkaka med hemkokt sylt"
         },
         {
           "category": "Dagens alternativ",
@@ -58,15 +58,19 @@
       ]
     },
     {
-      "day": "Fredag 23 okt",
+      "day": "Fredag 30 okt",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Vegofärslasagne"
+          "dish": "Tunnbrödrulle med vegokorv, potatismos och gurkmajonnäs"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Kycklinglasagne"
+          "dish": "Tunnbrödrulle med grillkorv, potatismos och gurkmajonnäs"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Tunnbrödrulle med kycklingkorv, potatismos och gurkmajonnäs"
         }
       ]
     }

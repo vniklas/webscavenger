@@ -1,40 +1,41 @@
-# Malvas matsedel - Meny för vecka 43
+# Malvas matsedel - Meny för vecka 44
 
 ---
 
 
-## Måndag 19 okt
+## Måndag 26 okt
 
-- Dagens gröna: Pasta med ajvar- och spenatsås
-- Dagens rätt: Pasta med kalkon- och ajvarsås
-
----
-
-## Tisdag 20 okt
-
-- Dagens gröna: Falafel med kebabsås och potatis
-- Dagens rätt: Fiskgratäng med dragonsås och kokt potatis
+- Dagens gröna: Raggmunk med lingonsylt och keso
+- Dagens rätt: Blodpudding och lingonsylt
 
 ---
 
-## Onsdag 21 okt
+## Tisdag 27 okt
 
-- Dagens gröna: Thaigryta med tofu och ris
-- Dagens rätt: Thaigryta med kyckling och ris
+- Dagens gröna: Pasta med krämig tomatsås
+- Dagens rätt: Krämig kycklingpasta
 
 ---
 
-## Torsdag 22 okt
+## Onsdag 28 okt
 
-- Dagens gröna: Blomkålssoppa med curry och mjukt bröd
-- Dagens rätt: Pannkaka och hemkokt sylt
+- Dagens gröna: Broccoligratäng med kokt potatis
+- Dagens rätt: Fiskgratäng med örter och kokt potatis
+
+---
+
+## Torsdag 29 okt
+
+- Dagens gröna: Potatis- och purjolökssoppa med hembakt bröd
+- Dagens rätt: Ostkaka med hemkokt sylt
 - Dagens alternativ: Kökets val
 
 ---
 
-## Fredag 23 okt
+## Fredag 30 okt
 
-- Dagens gröna: Vegofärslasagne
-- Dagens rätt: Kycklinglasagne
+- Dagens gröna: Tunnbrödrulle med vegokorv, potatismos och gurkmajonnäs
+- Dagens rätt: Tunnbrödrulle med grillkorv, potatismos och gurkmajonnäs
+- Dagens alternativ: Tunnbrödrulle med kycklingkorv, potatismos och gurkmajonnäs
 
 ---
