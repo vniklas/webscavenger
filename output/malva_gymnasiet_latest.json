@@ -1,55 +1,33 @@
 {
-  "week": "Meny för vecka 44",
+  "week": "Meny för vecka 45",
   "days": [
     {
-      "day": "Måndag 26 okt",
+      "day": "Måndag 2 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Raggmunk med lingonsylt och keso"
+          "dish": "Pasta med ost- och broccolisås"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Blodpudding och lingonsylt"
+          "dish": "Pasta med ost- och skinksås"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Pasta med ost- och kalkonsås"
         }
       ]
     },
     {
-      "day": "Tisdag 27 okt",
+      "day": "Tisdag 3 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Pasta med krämig tomatsås"
+          "dish": "Cajunbiffar med kall örtsås och kokt potatis"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Krämig kycklingpasta"
-        }
-      ]
-    },
-    {
-      "day": "Onsdag 28 okt",
-      "meals": [
-        {
-          "category": "Dagens gröna",
-          "dish": "Broccoligratäng med kokt potatis"
-        },
-        {
-          "category": "Dagens rätt",
-          "dish": "Fiskgratäng med örter och kokt potatis"
-        }
-      ]
-    },
-    {
-      "day": "Torsdag 29 okt",
-      "meals": [
-        {
-          "category": "Dagens gröna",
-          "dish": "Potatis- och purjolökssoppa med hembakt bröd"
-        },
-        {
-          "category": "Dagens rätt",
-          "dish": "Ostkaka med hemkokt sylt"
+          "dish": "Pankopanerad fisk med friskusremoulad och koktpotatis"
         },
         {
           "category": "Dagens alternativ",
@@ -58,19 +36,45 @@
       ]
     },
     {
-      "day": "Fredag 30 okt",
+      "day": "Onsdag 4 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Tunnbrödrulle med vegokorv, potatismos och gurkmajonnäs"
+          "dish": "Vego Stroganoff på rökt tofu och havreris"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Tunnbrödrulle med grillkorv, potatismos och gurkmajonnäs"
+          "dish": "Korv stroganoff och havreris"
         },
         {
           "category": "Dagens alternativ",
-          "dish": "Tunnbrödrulle med kycklingkorv, potatismos och gurkmajonnäs"
+          "dish": "Kycklingkorv stroganoff och havreris"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 5 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Kökets gröna val - soppa"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pannkaka och hemkokt sylt"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 6 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Chili sin carne med ris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Chili con carne med ris"
         }
       ]
     }

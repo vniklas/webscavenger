@@ -5,55 +5,55 @@
 ---
 
 
-## MONDAY 26 OCT
+## MONDAY 02 NOV
 
-**Lunch:** Kökets val
+**Lunch:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
 
-**Vegetariskt:** Kökets val
+**Vegetariskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
 
-**Ej fläsk:** Kökets val
+**Ej fläsk:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
 
-**Veganskt:** Kökets val
-
----
-
-## TUESDAY 27 OCT
-
-**Lunch:** Kökets val
-
-**Vegetariskt:** Kökets val
-
-**Ej fläsk:** Kökets val
-
-**Veganskt:** Kökets val
+**Veganskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
 
 ---
 
-## WEDNESDAY 28 OCT
+## TUESDAY 03 NOV
 
-**Lunch:** Kökets val
+**Lunch:** Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.
 
-**Vegetariskt:** Kökets val
+**Vegetariskt:** Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. 
 
-**Ej fläsk:** Kökets val
+**Ej fläsk:** Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.
 
-**Veganskt:** Kökets val
-
----
-
-## THURSDAY 29 OCT
-
-**Lunch:** Kökets val
-
-**Vegetariskt:** Kökets val
-
-**Ej fläsk:** Kökets val
-
-**Veganskt:** Kökets val
+**Veganskt:** Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. 
 
 ---
 
-## FRIDAY 30 OCT
+## WEDNESDAY 04 NOV
+
+**Lunch:** Köttfärssås med spagetti och vitlöksrostad majs
+
+**Vegetariskt:** Vegansk bolognese med spaghetti
+
+**Ej fläsk:** Vegansk bolognese med spaghetti
+
+**Veganskt:** Vegansk bolognese med spaghetti
+
+---
+
+## THURSDAY 05 NOV
+
+**Lunch:** Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.
+
+**Vegetariskt:** Grönsakswok med tofu och jasminris
+
+**Ej fläsk:** Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.
+
+**Veganskt:** Grönsakswok med tofu och jasminris
+
+---
+
+## FRIDAY 06 NOV
 
 **Lunch:** Kökets val
 

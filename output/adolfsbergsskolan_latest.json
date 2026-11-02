@@ -4,43 +4,43 @@
   "weeks": [
     [
       {
-        "day": "MONDAY 26 OCT",
+        "day": "MONDAY 02 NOV",
         "meals": {
-          "Lunch": "Kökets val",
-          "Vegetariskt": "Kökets val",
-          "Ej fläsk": "Kökets val",
-          "Veganskt": "Kökets val"
+          "Lunch": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Vegetariskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Ej fläsk": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
+          "Veganskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿"
         }
       },
       {
-        "day": "TUESDAY 27 OCT",
+        "day": "TUESDAY 03 NOV",
         "meals": {
-          "Lunch": "Kökets val",
-          "Vegetariskt": "Kökets val",
-          "Ej fläsk": "Kökets val",
-          "Veganskt": "Kökets val"
+          "Lunch": "Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.",
+          "Vegetariskt": "Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. ",
+          "Ej fläsk": "Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.",
+          "Veganskt": "Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. "
         }
       },
       {
-        "day": "WEDNESDAY 28 OCT",
+        "day": "WEDNESDAY 04 NOV",
         "meals": {
-          "Lunch": "Kökets val",
-          "Vegetariskt": "Kökets val",
-          "Ej fläsk": "Kökets val",
-          "Veganskt": "Kökets val"
+          "Lunch": "Köttfärssås med spagetti och vitlöksrostad majs",
+          "Vegetariskt": "Vegansk bolognese med spaghetti",
+          "Ej fläsk": "Vegansk bolognese med spaghetti",
+          "Veganskt": "Vegansk bolognese med spaghetti"
         }
       },
       {
-        "day": "THURSDAY 29 OCT",
+        "day": "THURSDAY 05 NOV",
         "meals": {
-          "Lunch": "Kökets val",
-          "Vegetariskt": "Kökets val",
-          "Ej fläsk": "Kökets val",
-          "Veganskt": "Kökets val"
+          "Lunch": "Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.",
+          "Vegetariskt": "Grönsakswok med tofu och jasminris",
+          "Ej fläsk": "Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.",
+          "Veganskt": "Grönsakswok med tofu och jasminris"
         }
       },
       {
-        "day": "FRIDAY 30 OCT",
+        "day": "FRIDAY 06 NOV",
         "meals": {
           "Lunch": "Kökets val",
           "Vegetariskt": "Kökets val",
@@ -50,6 +50,6 @@
       }
     ]
   ],
-  "start_date": "2026-10-26",
-  "end_date": "2026-11-01"
+  "start_date": "2026-11-02",
+  "end_date": "2026-11-08"
 }

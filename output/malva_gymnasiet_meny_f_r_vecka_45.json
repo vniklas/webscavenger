@@ -1,0 +1,82 @@
+{
+  "week": "Meny för vecka 45",
+  "days": [
+    {
+      "day": "Måndag 2 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Pasta med ost- och broccolisås"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pasta med ost- och skinksås"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Pasta med ost- och kalkonsås"
+        }
+      ]
+    },
+    {
+      "day": "Tisdag 3 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Cajunbiffar med kall örtsås och kokt potatis"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pankopanerad fisk med friskusremoulad och koktpotatis"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets val"
+        }
+      ]
+    },
+    {
+      "day": "Onsdag 4 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Vego Stroganoff på rökt tofu och havreris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Korv stroganoff och havreris"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kycklingkorv stroganoff och havreris"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 5 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Kökets gröna val - soppa"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pannkaka och hemkokt sylt"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 6 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Chili sin carne med ris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Chili con carne med ris"
+        }
+      ]
+    }
+  ]
+}
