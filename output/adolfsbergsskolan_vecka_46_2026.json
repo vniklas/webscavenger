@@ -1,0 +1,55 @@
+{
+  "school": "Adolfsbergsskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 09 NOV",
+        "meals": {
+          "Lunch": "Kebabgryta med vitlökssås, ugnsbakad lök och bulgur",
+          "Vegetariskt": "Vegansk kebabgryta med bulgur och vitlökssås",
+          "Ej fläsk": "Kebabgryta med vitlökssås, ugnsbakad lök och bulgur",
+          "Veganskt": "Vegansk kebabgryta med bulgur och vitlökssås"
+        }
+      },
+      {
+        "day": "TUESDAY 10 NOV",
+        "meals": {
+          "Lunch": "Pasta med köttbullar, italiensk tomatsås och ketchup",
+          "Vegetariskt": "Kockens veggierätt",
+          "Ej fläsk": "Pasta med köttbullar, italiensk tomatsås och ketchup",
+          "Veganskt": "Kockens veggierätt"
+        }
+      },
+      {
+        "day": "WEDNESDAY 11 NOV",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "THURSDAY 12 NOV",
+        "meals": {
+          "Lunch": "Vegetarisk lasagne, keso och grekisk tomatsallad",
+          "Vegetariskt": "Vegetarisk lasagne, keso och grekisk tomatsallad",
+          "Ej fläsk": "Vegetarisk lasagne, keso och grekisk tomatsallad",
+          "Veganskt": "Vegansk lasagne "
+        }
+      },
+      {
+        "day": "FRIDAY 13 NOV",
+        "meals": {
+          "Lunch": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Vegetariskt": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Ej fläsk": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Veganskt": "Kökets soppa och pannkakor med hemlagad bärkompott "
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-11-09",
+  "end_date": "2026-11-15"
+}

@@ -5,55 +5,31 @@
 ---
 
 
-## MONDAY 02 NOV
+## MONDAY 09 NOV
 
-**Lunch:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Lunch:** Kebabgryta med vitlökssås, ugnsbakad lök och bulgur
 
-**Vegetariskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Vegetariskt:** Vegansk kebabgryta med bulgur och vitlökssås
 
-**Ej fläsk:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
+**Ej fläsk:** Kebabgryta med vitlökssås, ugnsbakad lök och bulgur
 
-**Veganskt:** Wrapattack - Fyll din wrap med goda tillbehör 🌿
-
----
-
-## TUESDAY 03 NOV
-
-**Lunch:** Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.
-
-**Vegetariskt:** Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. 
-
-**Ej fläsk:** Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.
-
-**Veganskt:** Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. 
+**Veganskt:** Vegansk kebabgryta med bulgur och vitlökssås
 
 ---
 
-## WEDNESDAY 04 NOV
+## TUESDAY 10 NOV
 
-**Lunch:** Köttfärssås med spagetti och vitlöksrostad majs
+**Lunch:** Pasta med köttbullar, italiensk tomatsås och ketchup
 
-**Vegetariskt:** Vegansk bolognese med spaghetti
+**Vegetariskt:** Kockens veggierätt
 
-**Ej fläsk:** Vegansk bolognese med spaghetti
+**Ej fläsk:** Pasta med köttbullar, italiensk tomatsås och ketchup
 
-**Veganskt:** Vegansk bolognese med spaghetti
-
----
-
-## THURSDAY 05 NOV
-
-**Lunch:** Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.
-
-**Vegetariskt:** Grönsakswok med tofu och jasminris
-
-**Ej fläsk:** Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.
-
-**Veganskt:** Grönsakswok med tofu och jasminris
+**Veganskt:** Kockens veggierätt
 
 ---
 
-## FRIDAY 06 NOV
+## WEDNESDAY 11 NOV
 
 **Lunch:** Kökets val
 
@@ -62,5 +38,29 @@
 **Ej fläsk:** Kökets val
 
 **Veganskt:** Kökets val
+
+---
+
+## THURSDAY 12 NOV
+
+**Lunch:** Vegetarisk lasagne, keso och grekisk tomatsallad
+
+**Vegetariskt:** Vegetarisk lasagne, keso och grekisk tomatsallad
+
+**Ej fläsk:** Vegetarisk lasagne, keso och grekisk tomatsallad
+
+**Veganskt:** Vegansk lasagne 
+
+---
+
+## FRIDAY 13 NOV
+
+**Lunch:** Kökets soppa och pannkakor med hemlagad bärkompott 
+
+**Vegetariskt:** Kökets soppa och pannkakor med hemlagad bärkompott 
+
+**Ej fläsk:** Kökets soppa och pannkakor med hemlagad bärkompott 
+
+**Veganskt:** Kökets soppa och pannkakor med hemlagad bärkompott 
 
 ---

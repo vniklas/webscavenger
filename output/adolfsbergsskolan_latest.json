@@ -4,52 +4,52 @@
   "weeks": [
     [
       {
-        "day": "MONDAY 02 NOV",
+        "day": "MONDAY 09 NOV",
         "meals": {
-          "Lunch": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
-          "Vegetariskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
-          "Ej fläsk": "Wrapattack - Fyll din wrap med goda tillbehör 🌿",
-          "Veganskt": "Wrapattack - Fyll din wrap med goda tillbehör 🌿"
+          "Lunch": "Kebabgryta med vitlökssås, ugnsbakad lök och bulgur",
+          "Vegetariskt": "Vegansk kebabgryta med bulgur och vitlökssås",
+          "Ej fläsk": "Kebabgryta med vitlökssås, ugnsbakad lök och bulgur",
+          "Veganskt": "Vegansk kebabgryta med bulgur och vitlökssås"
         }
       },
       {
-        "day": "TUESDAY 03 NOV",
+        "day": "TUESDAY 10 NOV",
         "meals": {
-          "Lunch": "Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.",
-          "Vegetariskt": "Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. ",
-          "Ej fläsk": "Panerad fisk med klyftpotatis, dillremoulad och gröna ärtor.",
-          "Veganskt": "Hemlagade ärtfärsbiffar, kall dillsås och klyftpotatis. "
+          "Lunch": "Pasta med köttbullar, italiensk tomatsås och ketchup",
+          "Vegetariskt": "Kockens veggierätt",
+          "Ej fläsk": "Pasta med köttbullar, italiensk tomatsås och ketchup",
+          "Veganskt": "Kockens veggierätt"
         }
       },
       {
-        "day": "WEDNESDAY 04 NOV",
-        "meals": {
-          "Lunch": "Köttfärssås med spagetti och vitlöksrostad majs",
-          "Vegetariskt": "Vegansk bolognese med spaghetti",
-          "Ej fläsk": "Vegansk bolognese med spaghetti",
-          "Veganskt": "Vegansk bolognese med spaghetti"
-        }
-      },
-      {
-        "day": "THURSDAY 05 NOV",
-        "meals": {
-          "Lunch": "Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.",
-          "Vegetariskt": "Grönsakswok med tofu och jasminris",
-          "Ej fläsk": "Wokade grönsaker med kyckling, sötsur chilidressing, jasminris och rödkålssallad.",
-          "Veganskt": "Grönsakswok med tofu och jasminris"
-        }
-      },
-      {
-        "day": "FRIDAY 06 NOV",
+        "day": "WEDNESDAY 11 NOV",
         "meals": {
           "Lunch": "Kökets val",
           "Vegetariskt": "Kökets val",
           "Ej fläsk": "Kökets val",
           "Veganskt": "Kökets val"
         }
+      },
+      {
+        "day": "THURSDAY 12 NOV",
+        "meals": {
+          "Lunch": "Vegetarisk lasagne, keso och grekisk tomatsallad",
+          "Vegetariskt": "Vegetarisk lasagne, keso och grekisk tomatsallad",
+          "Ej fläsk": "Vegetarisk lasagne, keso och grekisk tomatsallad",
+          "Veganskt": "Vegansk lasagne "
+        }
+      },
+      {
+        "day": "FRIDAY 13 NOV",
+        "meals": {
+          "Lunch": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Vegetariskt": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Ej fläsk": "Kökets soppa och pannkakor med hemlagad bärkompott ",
+          "Veganskt": "Kökets soppa och pannkakor med hemlagad bärkompott "
+        }
       }
     ]
   ],
-  "start_date": "2026-11-02",
-  "end_date": "2026-11-08"
+  "start_date": "2026-11-09",
+  "end_date": "2026-11-15"
 }
