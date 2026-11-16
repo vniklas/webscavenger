@@ -1,29 +1,42 @@
 {
-  "week": "Meny för vecka 46",
+  "week": "Meny för vecka 47",
   "days": [
     {
-      "day": "Måndag 9 nov",
+      "day": "Måndag 16 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Kökets gröna val - gryträtt"
+          "dish": "Pasta med ajvar- och spenatsås"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Kökets val - gryträtt"
+          "dish": "Pasta med kalkon- och ajvarsås"
         }
       ]
     },
     {
-      "day": "Tisdag 10 nov",
+      "day": "Tisdag 17 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Majs- och broccolibiffar med kall sås och kokt potatis"
+          "dish": "Grönsaksburgare med bröd, klyftpotatis och dressing"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Citronfisk med kokt potatis"
+          "dish": "Vegoburgare med bröd, klyftpotatis och dressing"
+        }
+      ]
+    },
+    {
+      "day": "Onsdag 18 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Vegoschnitzel med kryddsmör och kokt potatis"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Krispig fisk med kall örtsås och kokt potatis"
         },
         {
           "category": "Dagens alternativ",
@@ -32,45 +45,32 @@
       ]
     },
     {
-      "day": "Onsdag 11 nov",
+      "day": "Torsdag 19 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Rotfruktspytt med ugnsbakade rödbetor och kall currysås"
+          "dish": "Tomatsoppa med hembakat bröd och vitlöksklick"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Kycklingpytt med kall currysås"
-        }
-      ]
-    },
-    {
-      "day": "Torsdag 12 nov",
-      "meals": [
-        {
-          "category": "Dagens gröna",
-          "dish": "Pasta med krämig vegofärssås"
-        },
-        {
-          "category": "Dagens rätt",
-          "dish": "Pasta med krämig tomatsås"
-        }
-      ]
-    },
-    {
-      "day": "Fredag 13 nov",
-      "meals": [
-        {
-          "category": "Dagens gröna",
-          "dish": "Röd currygryta med vegoflakes och basmatiris"
-        },
-        {
-          "category": "Dagens rätt",
-          "dish": "Röd currygryta med fläsk och basmatiris"
+          "dish": "Mannagrynspudding och hemkokt sylt"
         },
         {
           "category": "Dagens alternativ",
-          "dish": "Röd currygryta med kyckling och basmatiris"
+          "dish": "Kökets gröna val"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 20 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Kikärts tikka masala med mangoyoghurt och basmatiris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Kycklinggryta tikka masala med mangoyoghurt och basmatiris"
         }
       ]
     }

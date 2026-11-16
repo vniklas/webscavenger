@@ -1,0 +1,78 @@
+{
+  "week": "Meny för vecka 47",
+  "days": [
+    {
+      "day": "Måndag 16 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Pasta med ajvar- och spenatsås"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pasta med kalkon- och ajvarsås"
+        }
+      ]
+    },
+    {
+      "day": "Tisdag 17 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Grönsaksburgare med bröd, klyftpotatis och dressing"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Vegoburgare med bröd, klyftpotatis och dressing"
+        }
+      ]
+    },
+    {
+      "day": "Onsdag 18 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Vegoschnitzel med kryddsmör och kokt potatis"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Krispig fisk med kall örtsås och kokt potatis"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets val"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 19 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Tomatsoppa med hembakat bröd och vitlöksklick"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Mannagrynspudding och hemkokt sylt"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets gröna val"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 20 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Kikärts tikka masala med mangoyoghurt och basmatiris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Kycklinggryta tikka masala med mangoyoghurt och basmatiris"
+        }
+      ]
+    }
+  ]
+}

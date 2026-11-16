@@ -5,62 +5,62 @@
 ---
 
 
-## MONDAY 09 NOV
+## MONDAY 16 NOV
 
-**Lunch:** Kebabgryta med vitlökssås, ugnsbakad lök och bulgur
+**Lunch:** Korvstroganoff med ris och vitlöksrostad majs.
 
-**Vegetariskt:** Vegansk kebabgryta med bulgur och vitlökssås
+**Vegetariskt:** Vegansk stroganoff med ris och vitlöksrostad majs.
 
-**Ej fläsk:** Kebabgryta med vitlökssås, ugnsbakad lök och bulgur
+**Ej fläsk:** Korvstroganoff med ris och vitlöksrostad majs.
 
-**Veganskt:** Vegansk kebabgryta med bulgur och vitlökssås
-
----
-
-## TUESDAY 10 NOV
-
-**Lunch:** Pasta med köttbullar, italiensk tomatsås och ketchup
-
-**Vegetariskt:** Kockens veggierätt
-
-**Ej fläsk:** Pasta med köttbullar, italiensk tomatsås och ketchup
-
-**Veganskt:** Kockens veggierätt
+**Veganskt:** Vegansk stroganoff med ris och vitlöksrostad majs.
 
 ---
 
-## WEDNESDAY 11 NOV
+## TUESDAY 17 NOV
 
-**Lunch:** Kökets val
+**Lunch:** Fiskburgare med bröd, klyftpotatis och tillbehör
 
-**Vegetariskt:** Kökets val
+**Vegetariskt:** Vegburgare med bröd, klyftpotatis och dressing
 
-**Ej fläsk:** Kökets val
+**Ej fläsk:** Fiskburgare med bröd, klyftpotatis och tillbehör
 
-**Veganskt:** Kökets val
-
----
-
-## THURSDAY 12 NOV
-
-**Lunch:** Vegetarisk lasagne, keso och grekisk tomatsallad
-
-**Vegetariskt:** Vegetarisk lasagne, keso och grekisk tomatsallad
-
-**Ej fläsk:** Vegetarisk lasagne, keso och grekisk tomatsallad
-
-**Veganskt:** Vegansk lasagne 
+**Veganskt:** Vegburgare med bröd, klyftpotatis och dressing
 
 ---
 
-## FRIDAY 13 NOV
+## WEDNESDAY 18 NOV
 
-**Lunch:** Kökets soppa och pannkakor med hemlagad bärkompott 
+**Lunch:** Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.
 
-**Vegetariskt:** Kökets soppa och pannkakor med hemlagad bärkompott 
+**Vegetariskt:** Pasta med vegansk tomat och linssås
 
-**Ej fläsk:** Kökets soppa och pannkakor med hemlagad bärkompott 
+**Ej fläsk:** Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.
 
-**Veganskt:** Kökets soppa och pannkakor med hemlagad bärkompott 
+**Veganskt:** Pasta med vegansk tomat och linssås
+
+---
+
+## THURSDAY 19 NOV
+
+**Lunch:** Mexikansk fajitas med bröd, vitlöksyoghurt och grönsaker
+
+**Vegetariskt:** Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker
+
+**Ej fläsk:** Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker
+
+**Veganskt:** Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker
+
+---
+
+## FRIDAY 20 NOV
+
+**Lunch:** Köttbullar med brunsås, lingonsylt, persiljepicklad gurka och kokt potatis
+
+**Vegetariskt:** Vegobullar med brunsås, lingonsylt och kokt potatis
+
+**Ej fläsk:** Köttbullar med brunsås, lingonsylt, persiljepicklad gurka och kokt potatis
+
+**Veganskt:** Vegobullar med brunsås, inlagd gurka och kokt potatis
 
 ---

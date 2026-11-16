@@ -1,41 +1,41 @@
-# Malvas matsedel - Meny för vecka 46
+# Malvas matsedel - Meny för vecka 47
 
 ---
 
 
-## Måndag 9 nov
+## Måndag 16 nov
 
-- Dagens gröna: Kökets gröna val - gryträtt
-- Dagens rätt: Kökets val - gryträtt
+- Dagens gröna: Pasta med ajvar- och spenatsås
+- Dagens rätt: Pasta med kalkon- och ajvarsås
 
 ---
 
-## Tisdag 10 nov
+## Tisdag 17 nov
 
-- Dagens gröna: Majs- och broccolibiffar med kall sås och kokt potatis
-- Dagens rätt: Citronfisk med kokt potatis
+- Dagens gröna: Grönsaksburgare med bröd, klyftpotatis och dressing
+- Dagens rätt: Vegoburgare med bröd, klyftpotatis och dressing
+
+---
+
+## Onsdag 18 nov
+
+- Dagens gröna: Vegoschnitzel med kryddsmör och kokt potatis
+- Dagens rätt: Krispig fisk med kall örtsås och kokt potatis
 - Dagens alternativ: Kökets val
 
 ---
 
-## Onsdag 11 nov
+## Torsdag 19 nov
 
-- Dagens gröna: Rotfruktspytt med ugnsbakade rödbetor och kall currysås
-- Dagens rätt: Kycklingpytt med kall currysås
-
----
-
-## Torsdag 12 nov
-
-- Dagens gröna: Pasta med krämig vegofärssås
-- Dagens rätt: Pasta med krämig tomatsås
+- Dagens gröna: Tomatsoppa med hembakat bröd och vitlöksklick
+- Dagens rätt: Mannagrynspudding och hemkokt sylt
+- Dagens alternativ: Kökets gröna val
 
 ---
 
-## Fredag 13 nov
+## Fredag 20 nov
 
-- Dagens gröna: Röd currygryta med vegoflakes och basmatiris
-- Dagens rätt: Röd currygryta med fläsk och basmatiris
-- Dagens alternativ: Röd currygryta med kyckling och basmatiris
+- Dagens gröna: Kikärts tikka masala med mangoyoghurt och basmatiris
+- Dagens rätt: Kycklinggryta tikka masala med mangoyoghurt och basmatiris
 
 ---
