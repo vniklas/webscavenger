@@ -4,52 +4,52 @@
   "weeks": [
     [
       {
-        "day": "MONDAY 16 NOV",
+        "day": "MONDAY 23 NOV",
         "meals": {
-          "Lunch": "Korvstroganoff med ris och vitlöksrostad majs.",
-          "Vegetariskt": "Vegansk stroganoff med ris och vitlöksrostad majs.",
-          "Ej fläsk": "Korvstroganoff med ris och vitlöksrostad majs.",
-          "Veganskt": "Vegansk stroganoff med ris och vitlöksrostad majs."
+          "Lunch": "Kökets vegetariska buffé ",
+          "Vegetariskt": "Kökets vegetariska buffé ",
+          "Ej fläsk": "Kökets vegetariska buffé ",
+          "Veganskt": "Kökets vegetariska buffé "
         }
       },
       {
-        "day": "TUESDAY 17 NOV",
+        "day": "TUESDAY 24 NOV",
         "meals": {
-          "Lunch": "Fiskburgare med bröd, klyftpotatis och tillbehör",
-          "Vegetariskt": "Vegburgare med bröd, klyftpotatis och dressing",
-          "Ej fläsk": "Fiskburgare med bröd, klyftpotatis och tillbehör",
-          "Veganskt": "Vegburgare med bröd, klyftpotatis och dressing"
+          "Lunch": "Kryddkorvspasta med riven ost",
+          "Vegetariskt": "Kockens veggierätt",
+          "Ej fläsk": "Kryddkorvspasta med riven ost",
+          "Veganskt": "Kockens veggierätt"
         }
       },
       {
-        "day": "WEDNESDAY 18 NOV",
+        "day": "WEDNESDAY 25 NOV",
         "meals": {
-          "Lunch": "Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.",
-          "Vegetariskt": "Pasta med vegansk tomat och linssås",
-          "Ej fläsk": "Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.",
-          "Veganskt": "Pasta med vegansk tomat och linssås"
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
         }
       },
       {
-        "day": "THURSDAY 19 NOV",
+        "day": "THURSDAY 26 NOV",
         "meals": {
-          "Lunch": "Mexikansk fajitas med bröd, vitlöksyoghurt och grönsaker",
-          "Vegetariskt": "Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker",
-          "Ej fläsk": "Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker",
-          "Veganskt": "Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker"
+          "Lunch": "Kyckling och rotfrukter i gul currysås med jasminris och broccoli",
+          "Vegetariskt": "Indisk currygryta med kokosmjölk och ris",
+          "Ej fläsk": "Kyckling och rotfrukter i gul currysås med jasminris och broccoli",
+          "Veganskt": "Indisk currygryta med kokosmjölk och ris"
         }
       },
       {
-        "day": "FRIDAY 20 NOV",
+        "day": "FRIDAY 27 NOV",
         "meals": {
-          "Lunch": "Köttbullar med brunsås, lingonsylt, persiljepicklad gurka och kokt potatis",
-          "Vegetariskt": "Vegobullar med brunsås, lingonsylt och kokt potatis",
-          "Ej fläsk": "Köttbullar med brunsås, lingonsylt, persiljepicklad gurka och kokt potatis",
-          "Veganskt": "Vegobullar med brunsås, inlagd gurka och kokt potatis"
+          "Lunch": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
+          "Vegetariskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis",
+          "Ej fläsk": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
+          "Veganskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis"
         }
       }
     ]
   ],
-  "start_date": "2026-11-16",
-  "end_date": "2026-11-22"
+  "start_date": "2026-11-23",
+  "end_date": "2026-11-29"
 }

@@ -5,62 +5,62 @@
 ---
 
 
-## MONDAY 16 NOV
+## MONDAY 23 NOV
 
-**Lunch:** Korvstroganoff med ris och vitlöksrostad majs.
+**Lunch:** Kökets vegetariska buffé 
 
-**Vegetariskt:** Vegansk stroganoff med ris och vitlöksrostad majs.
+**Vegetariskt:** Kökets vegetariska buffé 
 
-**Ej fläsk:** Korvstroganoff med ris och vitlöksrostad majs.
+**Ej fläsk:** Kökets vegetariska buffé 
 
-**Veganskt:** Vegansk stroganoff med ris och vitlöksrostad majs.
-
----
-
-## TUESDAY 17 NOV
-
-**Lunch:** Fiskburgare med bröd, klyftpotatis och tillbehör
-
-**Vegetariskt:** Vegburgare med bröd, klyftpotatis och dressing
-
-**Ej fläsk:** Fiskburgare med bröd, klyftpotatis och tillbehör
-
-**Veganskt:** Vegburgare med bröd, klyftpotatis och dressing
+**Veganskt:** Kökets vegetariska buffé 
 
 ---
 
-## WEDNESDAY 18 NOV
+## TUESDAY 24 NOV
 
-**Lunch:** Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.
+**Lunch:** Kryddkorvspasta med riven ost
 
-**Vegetariskt:** Pasta med vegansk tomat och linssås
+**Vegetariskt:** Kockens veggierätt
 
-**Ej fläsk:** Pasta med rökt kött- och ostsås, ugnsbakad zuccini, aubergine och morotsslaw.
+**Ej fläsk:** Kryddkorvspasta med riven ost
 
-**Veganskt:** Pasta med vegansk tomat och linssås
-
----
-
-## THURSDAY 19 NOV
-
-**Lunch:** Mexikansk fajitas med bröd, vitlöksyoghurt och grönsaker
-
-**Vegetariskt:** Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker
-
-**Ej fläsk:** Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker
-
-**Veganskt:** Mexikansk veggiefajitas med bulgur, vitlöksyoghurt och grönsaker
+**Veganskt:** Kockens veggierätt
 
 ---
 
-## FRIDAY 20 NOV
+## WEDNESDAY 25 NOV
 
-**Lunch:** Köttbullar med brunsås, lingonsylt, persiljepicklad gurka och kokt potatis
+**Lunch:** Kökets val
 
-**Vegetariskt:** Vegobullar med brunsås, lingonsylt och kokt potatis
+**Vegetariskt:** Kökets val
 
-**Ej fläsk:** Köttbullar med brunsås, lingonsylt, persiljepicklad gurka och kokt potatis
+**Ej fläsk:** Kökets val
 
-**Veganskt:** Vegobullar med brunsås, inlagd gurka och kokt potatis
+**Veganskt:** Kökets val
+
+---
+
+## THURSDAY 26 NOV
+
+**Lunch:** Kyckling och rotfrukter i gul currysås med jasminris och broccoli
+
+**Vegetariskt:** Indisk currygryta med kokosmjölk och ris
+
+**Ej fläsk:** Kyckling och rotfrukter i gul currysås med jasminris och broccoli
+
+**Veganskt:** Indisk currygryta med kokosmjölk och ris
+
+---
+
+## FRIDAY 27 NOV
+
+**Lunch:** Pannbiff med tzatsiki, varma grönsaker och klyftpotatis
+
+**Vegetariskt:** Hemlagade vegetariska biffar med tzatsiki och klyftpotatis
+
+**Ej fläsk:** Pannbiff med tzatsiki, varma grönsaker och klyftpotatis
+
+**Veganskt:** Hemlagade vegetariska biffar med tzatsiki och klyftpotatis
 
 ---

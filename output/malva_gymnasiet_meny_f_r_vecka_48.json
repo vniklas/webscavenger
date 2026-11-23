@@ -1,0 +1,78 @@
+{
+  "week": "Meny för vecka 48",
+  "days": [
+    {
+      "day": "Måndag 23 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Vegobollar/biffar med gräddsås och potatismos"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Fiskköttbullar med gräddsås, lingon och potatismos"
+        }
+      ]
+    },
+    {
+      "day": "Tisdag 24 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Pastagratäng med heta grönsaker"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Fiskgratäng med dragonsås och kokt potatis"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets val"
+        }
+      ]
+    },
+    {
+      "day": "Onsdag 25 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Falafel med vitlökssås och ris"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Vårrullar med sötsur sås och ris"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 26 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Blomkålssoppa med curry och mjukt bröd"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pannkaka och hemkokt sylt"
+        },
+        {
+          "category": "Dagens alternativ",
+          "dish": "Kökets gröna val"
+        }
+      ]
+    },
+    {
+      "day": "Fredag 27 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Spagetti och linsbolognese"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Spagetti och köttfärssås"
+        }
+      ]
+    }
+  ]
+}

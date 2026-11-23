@@ -1,0 +1,55 @@
+{
+  "school": "Adolfsbergsskolan (Knivsta Kommun)",
+  "message": "Varje dag serveras dagens lunch samt grönsaker, smör, bröd och mjölk/vatten. Smaklig Måltid önskar Adolfsbergsköket!",
+  "weeks": [
+    [
+      {
+        "day": "MONDAY 23 NOV",
+        "meals": {
+          "Lunch": "Kökets vegetariska buffé ",
+          "Vegetariskt": "Kökets vegetariska buffé ",
+          "Ej fläsk": "Kökets vegetariska buffé ",
+          "Veganskt": "Kökets vegetariska buffé "
+        }
+      },
+      {
+        "day": "TUESDAY 24 NOV",
+        "meals": {
+          "Lunch": "Kryddkorvspasta med riven ost",
+          "Vegetariskt": "Kockens veggierätt",
+          "Ej fläsk": "Kryddkorvspasta med riven ost",
+          "Veganskt": "Kockens veggierätt"
+        }
+      },
+      {
+        "day": "WEDNESDAY 25 NOV",
+        "meals": {
+          "Lunch": "Kökets val",
+          "Vegetariskt": "Kökets val",
+          "Ej fläsk": "Kökets val",
+          "Veganskt": "Kökets val"
+        }
+      },
+      {
+        "day": "THURSDAY 26 NOV",
+        "meals": {
+          "Lunch": "Kyckling och rotfrukter i gul currysås med jasminris och broccoli",
+          "Vegetariskt": "Indisk currygryta med kokosmjölk och ris",
+          "Ej fläsk": "Kyckling och rotfrukter i gul currysås med jasminris och broccoli",
+          "Veganskt": "Indisk currygryta med kokosmjölk och ris"
+        }
+      },
+      {
+        "day": "FRIDAY 27 NOV",
+        "meals": {
+          "Lunch": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
+          "Vegetariskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis",
+          "Ej fläsk": "Pannbiff med tzatsiki, varma grönsaker och klyftpotatis",
+          "Veganskt": "Hemlagade vegetariska biffar med tzatsiki och klyftpotatis"
+        }
+      }
+    ]
+  ],
+  "start_date": "2026-11-23",
+  "end_date": "2026-11-29"
+}

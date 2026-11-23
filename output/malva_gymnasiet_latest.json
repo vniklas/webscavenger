@@ -1,42 +1,29 @@
 {
-  "week": "Meny för vecka 47",
+  "week": "Meny för vecka 48",
   "days": [
     {
-      "day": "Måndag 16 nov",
+      "day": "Måndag 23 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Pasta med ajvar- och spenatsås"
+          "dish": "Vegobollar/biffar med gräddsås och potatismos"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Pasta med kalkon- och ajvarsås"
+          "dish": "Fiskköttbullar med gräddsås, lingon och potatismos"
         }
       ]
     },
     {
-      "day": "Tisdag 17 nov",
+      "day": "Tisdag 24 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Grönsaksburgare med bröd, klyftpotatis och dressing"
+          "dish": "Pastagratäng med heta grönsaker"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Vegoburgare med bröd, klyftpotatis och dressing"
-        }
-      ]
-    },
-    {
-      "day": "Onsdag 18 nov",
-      "meals": [
-        {
-          "category": "Dagens gröna",
-          "dish": "Vegoschnitzel med kryddsmör och kokt potatis"
-        },
-        {
-          "category": "Dagens rätt",
-          "dish": "Krispig fisk med kall örtsås och kokt potatis"
+          "dish": "Fiskgratäng med dragonsås och kokt potatis"
         },
         {
           "category": "Dagens alternativ",
@@ -45,15 +32,28 @@
       ]
     },
     {
-      "day": "Torsdag 19 nov",
+      "day": "Onsdag 25 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Tomatsoppa med hembakat bröd och vitlöksklick"
+          "dish": "Falafel med vitlökssås och ris"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Mannagrynspudding och hemkokt sylt"
+          "dish": "Vårrullar med sötsur sås och ris"
+        }
+      ]
+    },
+    {
+      "day": "Torsdag 26 nov",
+      "meals": [
+        {
+          "category": "Dagens gröna",
+          "dish": "Blomkålssoppa med curry och mjukt bröd"
+        },
+        {
+          "category": "Dagens rätt",
+          "dish": "Pannkaka och hemkokt sylt"
         },
         {
           "category": "Dagens alternativ",
@@ -62,15 +62,15 @@
       ]
     },
     {
-      "day": "Fredag 20 nov",
+      "day": "Fredag 27 nov",
       "meals": [
         {
           "category": "Dagens gröna",
-          "dish": "Kikärts tikka masala med mangoyoghurt och basmatiris"
+          "dish": "Spagetti och linsbolognese"
         },
         {
           "category": "Dagens rätt",
-          "dish": "Kycklinggryta tikka masala med mangoyoghurt och basmatiris"
+          "dish": "Spagetti och köttfärssås"
         }
       ]
     }
